@@ -1,0 +1,26 @@
+#top-header {
+    /* float: right; */
+    text-align: right;
+    background-color: royalblue;
+    color: seashell;
+}
+#main-header {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+        sans-serif;
+}
+.blue {
+    color: violet;
+    margin: 10px;
+}
+.red {
+    color: yellowgreen;
+}
+#background-pic {
+    background-image: url(wa2.jpg);
+    background-size: cover;
+    height: 300px;
+}
+.head {
+    text-align: center;
+    color: rgb(0, 116, 218);
+}

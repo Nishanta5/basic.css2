@@ -1,0 +1,27 @@
+.heading {
+    font-size: 50px;
+}
+.heading {
+    color: blue;
+}
+.main {
+    font-size: 30px;
+}
+.main {
+    color: chartreuse;
+}
+.para {
+    font-size: 40px;
+}
+.para {
+    color: darkgoldenrod;
+}
+.push {
+    font-size: 50px;
+}
+.push {
+    color: deepskyblue;
+}
+.main {
+    text-align: center;
+}

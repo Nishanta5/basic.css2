@@ -1,0 +1,19 @@
+.form-control {
+    margin: 1px 20px 25px;
+}
+.main-container {
+    text-align: center;
+}
+.form-design {
+    text-align: center;
+    margin: 1px 20px 25px;
+}
+body {
+    background-color: rgb(205, 120, 238);
+}
+.inputField:focus {
+    background-color: rgb(138, 212, 255);
+}
+.inputfield1:focus {
+    background-color: rgb(164, 228, 236);
+}

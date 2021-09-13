@@ -1,0 +1,38 @@
+#top-header {
+    color: white;
+    background-color: orangered;
+    padding: 0px 5px;
+}
+#heading {
+    background-color: orangered;
+    padding: 50px;
+    text-align: center;
+}
+h1 {
+    color: papayawhip;
+}
+p {
+    color: papayawhip;
+}
+button {
+    background-color: rgb(134, 64, 59);
+    color: white;
+    padding: 0.4rem;
+    font-size: small;
+
+    margin-left: 9px;
+}
+.paragraph {
+    color: black;
+    padding: 25px 15px 25px;
+}
+.para {
+    color: black;
+    text-align: left;
+}
+.pic {
+    float: right;
+}
+.inputField {
+    padding: 0.4rem;
+}

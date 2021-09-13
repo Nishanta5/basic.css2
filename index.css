@@ -1,0 +1,22 @@
+#top-header {
+    background-color: rgb(5, 89, 138);
+    color: rgba(255, 255, 255, 0.918);
+    padding: 1px;
+}
+#heading {
+    background-color: rgb(100, 100, 197);
+    color: white;
+    padding: 100px;
+    text-align: center;
+}
+#button1 {
+    background-color: yellowgreen;
+    padding: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#button2 {
+    color: rgb(0, 36, 24);
+}
+#templates {
+    padding: 60px;
+}

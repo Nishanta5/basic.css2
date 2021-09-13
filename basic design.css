@@ -1,0 +1,21 @@
+#top-header {
+    text-align: left;
+    background-color: rgb(4, 0, 66);
+    color: rgb(216, 12, 148);
+    padding: 1px;
+}
+#main-headline {
+    background-color: peru;
+    padding: 50px;
+}
+#head {
+    color: rgb(247, 101, 3);
+    text-align: center;
+    padding: 10px;
+}
+.para {
+    color: rgb(35, 35, 167);
+    margin: 50px;
+    background-color: rgb(3, 236, 139);
+    padding: 20px;
+}
